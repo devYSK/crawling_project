@@ -57,7 +57,7 @@
 	!rm -rf /content/.cache/pytagcloud/* 
   ```
 
-II.	모듈별 설계 내용
+## II.	모듈별 설계 내용
 
 ![image](https://user-images.githubusercontent.com/41531594/101987302-a000b180-3cd6-11eb-960c-d5d9ce39cd50.png)
 
@@ -65,4 +65,21 @@ II.	모듈별 설계 내용
 
 ![image](https://user-images.githubusercontent.com/41531594/101987319-aee76400-3cd6-11eb-9299-449f7813a3ed.png)
 
+## III. 구현 단계별 제작내용 (이미지 캡쳐) 및 결과물 설명
+
+![image](https://user-images.githubusercontent.com/41531594/101987373-143b5500-3cd7-11eb-8f88-a4a923140128.png)
+
+![image](https://user-images.githubusercontent.com/41531594/101987378-1bfaf980-3cd7-11eb-9d69-aee15e6692a5.png)
+
+![image](https://user-images.githubusercontent.com/41531594/101987384-274e2500-3cd7-11eb-85f4-9deaaa97b6ac.png)
+
+![image](https://user-images.githubusercontent.com/41531594/101987406-3d5be580-3cd7-11eb-9d85-28befea1c48b.png)
+
+![image](https://user-images.githubusercontent.com/41531594/101987413-451b8a00-3cd7-11eb-8e07-4ef8c7ee072e.png)
+
+![image](https://user-images.githubusercontent.com/41531594/101987421-4ea4f200-3cd7-11eb-9942-53c9a7b00937.png)
+
+![image](https://user-images.githubusercontent.com/41531594/101987424-56fd2d00-3cd7-11eb-9945-af5d54b27c62.png)
+
+![image](https://user-images.githubusercontent.com/41531594/101987433-68463980-3cd7-11eb-9887-4c23b8ce9ce6.png)
 
