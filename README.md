@@ -17,14 +17,14 @@
   * 라이브러리 : 
      - selenium,  
      - wordcloud,  
-              * matplotlib.pylab,  
-	      * pandas,  
-	      * prettytable,  
-	      * collections,  
-	      * urllib.request,  
-	      * os,  
-	      * konlpy.tag,  
-	      * re  
+     - matplotlib.pylab,  
+     - pandas,  
+     - prettytable,  
+     - collections,    
+     - urllib.request,  
+     - os,  
+     - konlpy.tag,
+     - re  
 
   colab환경 프로젝트 내 install한 라이브러리 및 모듈들 명령어
   ```
