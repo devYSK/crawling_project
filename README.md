@@ -10,12 +10,13 @@
  
 
 ### 1.1 사용한 모듈 및 라이브러리
-  환경 : Windows10 Google Chrome Colab
+  * 환경 : Windows10 Google Chrome Colab
   
-  폰트 : NanumGothic.ttf
+  * 폰트 : NanumGothic.ttf
 
-  라이브러리 : * selenium,  
-  	      * wordcloud,  
+  * 라이브러리 : 
+     - selenium,  
+     - wordcloud,  
               * matplotlib.pylab,  
 	      * pandas,  
 	      * prettytable,  
